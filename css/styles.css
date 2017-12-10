@@ -1,7 +1,12 @@
 .jumbotron{
   background-image: url("/home/june/Documents/ping-pong/giphy.gif");
+  margin:40px;
+
 
 }
 body{
   background-color: #76D7C4;
+}
+#number{
+  background-image: url("/home/june/Documents/ping-pong/giphy.gif");
 }
