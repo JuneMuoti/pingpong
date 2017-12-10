@@ -1,6 +1,15 @@
+#intro{
+    background-image: url("/home/june/Documents/ping-pong/giphy.gif");
+
+    margin:20px;
+    padding:300px;
+    width: 4000px;
+    margin-right: 500px;
+    align:center;
+}
 .jumbotron{
-  
-  margin:40px;
+
+  margin:50px;
   background-color: #FF1493;
 
 
