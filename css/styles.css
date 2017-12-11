@@ -1,4 +1,8 @@
-#intro{
+
+body{
+  font-family:'Open Sans', sans-serif;
+  }
+  #intro{
     background-image: url("/home/june/Documents/ping-pong/giphy.gif");
 
     margin:20px;
