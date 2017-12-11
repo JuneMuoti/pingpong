@@ -2,15 +2,18 @@
 body{
   font-family:'Open Sans', sans-serif;
   }
+  h1{
+    text-align: center;
+  }
   #intro{
     background-image: url("/home/june/Documents/ping-pong/giphy.gif");
+    margin:100px;
+    padding:200px;
 
-    margin:20px;
-    padding:300px;
-    width: 4000px;
-    margin-right: 500px;
+
     align:center;
 }
+
 .jumbotron{
 
   margin:50px;
