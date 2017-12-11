@@ -7,6 +7,9 @@ $(document).ready(function() {
     output.forEach(function(element){
     $("#list").append("<li>" +element );
   });
+  $('#clear').click(function(event){
+    $("#list").empty();
+  })
 });
 });
 
